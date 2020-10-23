@@ -173,6 +173,35 @@ header ul{
   margin: auto;
 }
 
+.about {
+  max-width: 700px;
+  margin: auto;
+}
+
+.about .heading{
+  font-size: 21px;
+  letter-spacing: 0.07rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #131111;
+}
+
+.about p{
+  margin-bottom: 10px;
+  text-align: justify;
+  color: rgb(36, 34, 34);
+  font-size: 15px;
+}
+
+.about ul{
+  font-size: 15px;
+}
+
+
+
+
 
 
 /* Global Styles */
