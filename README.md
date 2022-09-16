@@ -16,3 +16,13 @@
 - npm install react-bootstrap
 - npm install react-markdown
 - npm install @material-ui/core
+
+### 🎉 Issues
+
+Feel free to file a new issue with a respective title and description on the Pokedex NextJS repository. If you already found a solution to your problem, I would love to review your pull request! Have a look at our contribution guidelines to find out about the coding standards.
+
+### ⚡ Contribution
+
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+
+Please note we have a code of conduct, please follow it in all your interactions with the project.
